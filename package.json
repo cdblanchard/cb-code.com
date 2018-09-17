@@ -1,0 +1,26 @@
+{
+  "name": "cb-code.com",
+  "version": "1.0.0",
+  "description": "cb-code.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdblanchard/cb-code.com.git"
+  },
+  "keywords": [
+    "coding",
+    "web",
+    "development",
+    "web",
+    "design"
+  ],
+  "author": "Cody Blanchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdblanchard/cb-code.com/issues"
+  },
+  "homepage": "https://github.com/cdblanchard/cb-code.com#readme"
+}
